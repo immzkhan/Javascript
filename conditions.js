@@ -105,5 +105,9 @@
 // }
 
 for(let i = 5; i <= 5; i++){
-    console.log('the value is :',i);
+    console.log('the value is  i :',i);
+}
+
+for(let k = 6; k <= 9; k++ ){
+    console.log("the value is k :",k);
 }
