@@ -4,4 +4,4 @@ let bankdetail ={
     balance: 123269,
 }
 
-console.log('my acc details', user);
+console.log('my acc ', user);
