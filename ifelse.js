@@ -15,10 +15,11 @@ if (rating == 5){
     console.log(" 4 stars");
 }  else if ( rating == 3 ){
     console.log("Average");
-}// Date & Math 
+    }
+        Date & Math 
 
-// const imran = new Date();
-// console.log(imran);
+ const imran = new Date();
+ console.log(imran);
 // console.log(imran.toDateString());
 // console.log(imran.getUTCDate(), imran.getFullYear());
 
