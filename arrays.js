@@ -16,7 +16,7 @@
 
 // Arrays Methods 
 
-let names = ["anurag","Imran","yaseen","imtiyaz",'usama'];
+// let names = ["anurag","Imran","yaseen","imtiyaz",'usama'];
 // console.log(names);
 // console.log(names.length);
 // console.log(names[1]);
@@ -31,6 +31,30 @@ let names = ["anurag","Imran","yaseen","imtiyaz",'usama'];
 //  let namess = new Array('imran','kalid')
 // console.log(namess);
 
-names.push('vikaram');
-names.push('vikaram','pushpa','solii');
-console.log(names);
+
+
+// Push Key To add New element To arraY 
+// names.push('vikaram');
+// names.push('vikaram','pushpa','solii');
+// console.log(names);
+
+
+//  slice
+
+// let names = ["anurag","Imran","yaseen","imtiyaz",'usama'];
+// console.log(names.slice(0,4));
+
+// splice 
+// let fruit = ["apple","badaapple","chotaapple"," double apple",'ek aur apple'];
+// fruit.splice(0,1,'accha apple', 'kharab apple');
+// console.log(fruit);
+
+
+// Concatenation
+
+// let arr1 = [1,2,3,4];
+// let arr2 = [5,6,7,8,'immz'];
+// let arr3 = [2,5,6,9];
+
+// console.log(arr1.concat(arr2));
+// console.log(arr1.concat(arr2,arr3));
