@@ -5,5 +5,5 @@ console.log(arr4);
 
 // Homework 
 
-arr4.fill('imran',1,4); /// we can 
+arr4.fill('imran','imran',1,4); /// we can 
 console.log(arr4); 
