@@ -1,4 +1,2 @@
 if { 
-    let k ="imran"
-};
-switch(
+    let k ="i
