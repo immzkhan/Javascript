@@ -1,2 +1,1 @@
-if { 
-    let k ="i
+if {
