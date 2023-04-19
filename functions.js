@@ -7,4 +7,4 @@ function URL(url,domain){
 let inransite = URL('imrankhan','.com');
 console.log(inransite);  
 
-console.log(URL('imrankhan','.com'));
+console.log(URL('imrankhan','.com')); //// Not Recomdeded
