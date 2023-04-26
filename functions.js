@@ -18,3 +18,6 @@ console.log(inransite);
 console.log(URL('imrankhan','.com')); //// Not Recomdeded
 let inransite = URL();
 console.log(inransite); 
+console.log(URL('imrankhan','.com')); //// Not Recomdeded
+let inransite = URL();
+console.log(inransite); 
