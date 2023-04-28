@@ -8,16 +8,10 @@ let inransite = URL('imrankhan','.com');
 console.log(inransite);  
 
 console.log(URL('imrankhan','.com')); //// Not Recomdeded
-let inransite = URL('imrankhan','.com');
+
+let inrancite = URL('imrankhan','.com');
 console.log(inransite); 
 
-console.log(URL('imrankhan','.com')); //// Not Recomdeded
-let inransite = URL('imrankhan','.com');
-console.log(inransite); 
+ 
 
-console.log(URL('imrankhan','.com')); //// Not Recomdeded
-let inransite = URL();
-console.log(inransite); 
-console.log(URL('imrankhan','.com')); //// Not Recomdeded
-let inransite = URL();
-console.log(inransite); 
+
