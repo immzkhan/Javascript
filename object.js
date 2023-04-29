@@ -20,6 +20,9 @@
     console.log(userName[x]);
  }
 
- userName.role = ""
+ userName.role = "GM";
+
+console.log(userName);
+
 
  console.log(userName);
