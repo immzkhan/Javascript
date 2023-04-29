@@ -19,3 +19,7 @@
  for ( let x in userName){
     console.log(userName[x]);
  }
+
+ userName.role = ""
+
+ console.log(userName);
